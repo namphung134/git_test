@@ -11,7 +11,7 @@ git status      => check trạng thái file code
 git log         => check trạng thái file code
 git log -decorate -graph -oneline
 
-git branch      =>
+git branch      => git branch new-branch 
 git checkout    =>
 git merge       =>
 

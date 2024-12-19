@@ -4,7 +4,7 @@ git pull        => đồng bộ code từ trên mạng về máy
 
 git add         => thêm code, code đã sửa vào repo trong máy
 git add .       => tt trên
-git commit      => tt trên, phải đi sau add
+git commit -m  "..."   => tt trên, phải đi sau add
 git push        => đồng bộ code từ máy lên trên mạng (máy chủ)
 
 git status      => check trạng thái file code

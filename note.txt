@@ -9,7 +9,7 @@ git push        => đồng bộ code từ máy lên trên mạng (máy chủ)
 
 git status      => check trạng thái file code
 git log         => check trạng thái file code
-git log -decorate -graph -oneline
+git log --decorate --graph --oneline
 
 git branch      => git branch new-branch (tạo branch mới)
                    git branch (check all branch đang có)

@@ -3,7 +3,7 @@ git clone       => lấy code từ trên mạng về
 git pull        => đồng bộ code từ trên mạng về máy
 
 git add         => thêm code, code đã sửa vào repo trong máy
-git add .       => tt trên
+git add .       => tương tự trên
 git commit -m  "..."   => tt trên, phải đi sau add
 git push        => đồng bộ code từ máy lên trên mạng (máy chủ)
 

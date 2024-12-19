@@ -19,7 +19,7 @@ git branch      => git branch new-branch (tạo branch mới)
                    git branch (check all branch đang có)
 git checkout    => chuyển sang branch, vd: để chuyển sang 
                    branch abc -> git checkout abc
-git merge       =>
+git merge       => vd: git merge abc => merge abc về nhánh hiện tại
 
 Nâng cao:
 git rebase

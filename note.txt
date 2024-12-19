@@ -12,7 +12,7 @@ git log         => check trạng thái file code
 git log -decorate -graph -oneline
 
 git branch      => git branch new-branch 
-git checkout    =>
+git checkout    => checkout branch
 git merge       =>
 
 Nâng cao:

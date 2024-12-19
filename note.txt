@@ -6,6 +6,10 @@ git add         => thêm code, code đã sửa vào repo trong máy
 git add .       => tương tự trên
 git commit -m  "..."   => tt trên, phải đi sau add
 git push        => đồng bộ code từ máy lên trên mạng (máy chủ)
+gp              => viết tắt git push
+
+gcam "..."      => vừa add, vừa commit (sẽ tiện hơn)
+                   ví dụ: gcam "add abc"
 
 git status      => check trạng thái file code
 git log         => check trạng thái file code

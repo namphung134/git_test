@@ -1,3 +1,3 @@
 import numpy as np
 
-print("hôm nay trời đẹp")
+print("git study")
